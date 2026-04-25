@@ -25,12 +25,12 @@ public class Exercicio_05 {
                 contImpar++;
             }
         }
-        System.out.println("numeros impar: ");
+        System.out.println("\nnumeros par: ");
        for (int i = 0; i < contPar; i++) {
             System.out.print(par[i] + " ");
         }
 
-        System.out.print("Números Ímpares: ");
+        System.out.print("\nNúmeros Ímpares: ");
         for (int i = 0; i < contImpar; i++) {
             System.out.print(impar[i] + " ");
         }
