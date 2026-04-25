@@ -30,7 +30,7 @@ public class Exercicio_05 {
             System.out.print(par[i] + " ");
         }
 
-        System.out.print("\nNúmeros Ímpares: ");
+        System.out.print("Números Ímpares: ");
         for (int i = 0; i < contImpar; i++) {
             System.out.print(impar[i] + " ");
         }
